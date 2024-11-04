@@ -1,0 +1,18 @@
+flutter_native_splash:
+
+  # Android 11 and below
+  color: "#ffffff"
+  image: assets/images/splash_screen_light.png
+  branding: assets/images/route_branding.png
+  color_dark: "#060E1E"
+  image_dark: assets/images/splash_screen_light.png
+  branding_dark: assets/images/route_branding.png
+
+  # Android 12 and above
+  android_12:
+    image: assets/images/splash_screen_light.png
+    branding: assets/images/route_branding.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/splash_screen_light.png
+    icon_background_color_dark: "#060E1E"
+    branding_dark: assets/images/route_branding.png
